@@ -21,7 +21,6 @@ btnSearch.addEventListener('click' , fetchData);
             }   
         });
     }
-
     // Showing Data To User
     function show(data){
         output=``;
